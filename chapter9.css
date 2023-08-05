@@ -1,7 +1,7 @@
 *{
-  box-sizing: border-box;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 header{
@@ -86,7 +86,7 @@ main{
 }
 
 .step-box:last-child{
-  margin-bottom: 0;
+  margin: 30px auto 0;
 }
 
 footer{
